@@ -4,7 +4,7 @@
 Welcome to my repository for **Python OOP course at [SoftUni](https://softuni.bg/) - February 2023**! Here, you'll find my solutions to all the tasks and exercises assigned during the course.
 
 ## 📖 About the Course
-This course covers the principles of object-oriented programming (OOP) and focuses on working with classes, objects, and object-oriented modeling. It includes studying the core concepts of OOP such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism. Additionally, the course delves into commonly used design patterns (creational, structural, and behavioral design patterns) and introduces the SOLID principles for object-oriented software design. It also covers working with iterators and generators, as well as creating and using decorators. The course includes component testing (writing unit tests) and introduces the concept of Test-Driven Development (TDD).
+This course covers the principles of object-oriented programming (OOP) and focuses on working with classes, objects and object-oriented modeling. It includes studying the core concepts of OOP such as abstraction (interfaces, abstract classes), encapsulation, inheritance and polymorphism. Additionally, the course delves into commonly used design patterns (creational, structural and behavioral design patterns) and introduces the SOLID principles for object-oriented software design. It also covers working with iterators and generators, as well as creating and using decorators. The course includes component testing (writing unit tests) and introduces the concept of Test-Driven Development (TDD).
 
 ### Skills Acquired:
 - [x] Applying the object-oriented programming paradigm
