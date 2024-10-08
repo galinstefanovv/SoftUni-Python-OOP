@@ -52,4 +52,4 @@ My solutions are organized into folders representing each lesson and type of exe
 - **GitHub**: [View](https://github.com/galinstefanovv)
 
 ## 📚 Navigation
-> Previous course: [**`Python Advanced`**](https://github.com/galinstefanovv/SoftUni-Python-Advanced) | Next course: [**`Python OOP`**](https://github.com/galinstefanovv/SoftUni-Python-Web-Basics)
+> Previous course: [**`Python Advanced`**](https://github.com/galinstefanovv/SoftUni-Python-Advanced) | Next course: [**`Python Web Basics`**](https://github.com/galinstefanovv/SoftUni-Python-Web-Basics)
